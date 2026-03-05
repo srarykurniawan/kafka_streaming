@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Kafka Streaming Assignment
-=======
 # Kafka Streaming
 
->>>>>>> 540d1b1bfd5bd3d77817589303e956d0c4a3d702
 ## Transaction Event Pipeline dengan PySpark Structured Streaming
 
 ---
