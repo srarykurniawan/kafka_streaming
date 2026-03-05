@@ -1,6 +1,5 @@
-# kafka_streaming
+# Kafka Streaming
 
-# Kafka Streaming Assignment
 ## Transaction Event Pipeline dengan PySpark Structured Streaming
 
 ---
